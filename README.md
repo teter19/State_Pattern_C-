@@ -1,4 +1,4 @@
 # State Pattern in C#
 Repository contains .cs files with implementation of State Pattern based on water circulation in environment.
 Scheme of water states:
-![graphv3](https://user-images.githubusercontent.com/48219351/123666594-a6511800-d839-11eb-8e5f-fa1a1282134e.png)
+![graph](https://user-images.githubusercontent.com/48219351/125173597-620e3200-e1c0-11eb-8ab0-a2d041723f88.png)
